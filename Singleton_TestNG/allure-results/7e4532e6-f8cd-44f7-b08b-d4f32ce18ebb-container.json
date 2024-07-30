@@ -1,0 +1,1 @@
+{"uuid":"7e4532e6-f8cd-44f7-b08b-d4f32ce18ebb","name":"testCases.sampleTestSingleton","children":["2bb68f3a-36d9-4a9e-8a80-ba2177c9e9f2"],"befores":[{"name":"setDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722366943223,"stop":1722366948954}],"afters":[],"links":[],"start":1722366943212,"stop":1722366948958}
